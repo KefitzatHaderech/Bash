@@ -1,0 +1,17 @@
+bash_gui.sh
+bash_gui_todo.sh
+delete_multiple_packages.sh
+directory_contents.txt
+exit_codes_examples.sh
+find_and_delete.sh
+hello_world.sh
+if_statements_and_checks.sh
+install_multiple_deb.sh
+install_ubuntu_apps.sh
+install_vscode.sh
+math_functions.sh
+redirection_piping.sh
+tasks.txt
+universal_updates.sh
+variables_example.sh
+while_loops_example.sh

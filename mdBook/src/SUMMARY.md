@@ -6,7 +6,7 @@
   - [df, free, ps, top, kill](./01_Entering-Terminal-Commands/03_df-free-ps-top-kill.md)
 - [Navigating the Terminal](./02_Navigating-Terminal/README.md)
   - [Changing Directories](./02_Navigating-Terminal/01_cd.md)
-  - [Importatnt Directories](./02_Navigating-Terminal/02_important-dir.md)
+  - [Important Directories](./02_Navigating-Terminal/02_important-dir.md)
   - [Editing Files within a Directory](./02_Navigating-Terminal/03_editing-files.md)
 - [Making and Manipulating](./03_Making-Manipulating/README.md)
   - [Making and Manipulation Files](./03_Making-Manipulating/01_making-manipulation-files.md)

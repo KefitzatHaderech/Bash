@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: Exit Codes
+# Exit Codes
 
 ## Introduction
 Welcome to Class 06 of the Bash Scripting on Linux series! In this tutorial, we'll delve into the concept of exit codes. Exit codes help us determine whether a command was successful or if it encountered an issue.

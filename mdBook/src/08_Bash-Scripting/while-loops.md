@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: While Loops
+# While Loops
 
 ## Overview
 Now, let's dive into while loops, which allow scripts to execute a block of code repeatedly until a specified condition is met. A common real-life scenario for while loops is creating menus where users make selections and then return to the menu.

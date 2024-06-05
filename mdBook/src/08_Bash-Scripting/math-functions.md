@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: Basic Math Functions
+# Basic Math Functions
 
 In this tutorial, we'll delve into basic math functions in Bash scripting. While not the most frequent task in Bash scripting, understanding how to perform mathematical operations is essential. We'll cover addition, subtraction, multiplication, division, and using variables in math expressions.
 

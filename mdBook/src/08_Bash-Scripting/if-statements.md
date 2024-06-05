@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial - Part 3: If Statements and Checking Commands
+# If Statements and Checking Commands
 
 Welcome to the third part of the Bash Scripting Tutorial series! In this lesson, we'll dive into the world of if statements and explore how they can be used to create more dynamic and flexible scripts.
 

@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: Data Streams
+# Data Streams
 
 In this class, we will explore data streams, specifically focusing on standard input, standard output, and standard error.
 

@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: Understanding and Using Variables
+# Understanding and Using Variables
 
 In this tutorial, we will explore the basics of variables in Bash scripting. Variables allow us to store and reuse information, providing flexibility and efficiency in our scripts. We'll cover the declaration, referencing, and practical uses of variables in Bash.
 

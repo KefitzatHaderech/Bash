@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: Case Statements
+# Case Statements
 
 In this class, we will explore the concept of case statements in Bash scripting.
 

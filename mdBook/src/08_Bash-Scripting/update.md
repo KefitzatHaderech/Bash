@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: Universal Update Script
+# Universal Update Script
 
 ## Overview
 In this class (Class 08), we will create a useful script – the Universal Update Script. 

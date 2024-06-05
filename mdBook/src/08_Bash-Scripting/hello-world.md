@@ -2,14 +2,12 @@
 
 In this tutorial, we'll guide you through writing a simple Bash script using the "Hello World" example. The script will display a greeting message and print the current working directory.
 
-## Prerequisites
-- Basic understanding of the Linux command line
-- A text editor (e.g., Nano, Vim, or any text editor of your choice)
-
 ## Step 2: Understand the Basics
+
 Ensure you understand the basics of Bash scripting and how to open a terminal, enter commands, and interact with the shell.
 
 ## Step 3: Create Your First Script
+
 Open your preferred text editor (in the video, Nano is used) and create a new file. In this example, we'll name it `hello_world.sh`. Make sure to use the `.sh` extension to indicate it's a Bash script.
 
 ```bash
@@ -17,6 +15,7 @@ nano hello_world.sh
 ```
 
 ## Step 4: Write the Script
+
 In your text editor, enter the following lines:
 
 ```bash
@@ -30,9 +29,11 @@ pwd
 - The third line (`pwd`) displays the current working directory.
 
 ## Step 5: Save and Exit
+
 Save the file by pressing `Ctrl + O`, then press `Enter`. To exit Nano, press `Ctrl + X`.
 
 ## Step 6: Make the Script Executable
+
 In the terminal, make the script executable using the `chmod` command:
 
 ```bash
@@ -40,6 +41,7 @@ chmod +x hello_world.sh
 ```
 
 ## Step 7: Run the Script
+
 Execute the script using the following command:
 
 ```bash

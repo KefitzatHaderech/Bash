@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: Arguments
+# Arguments
 
 Welcome to Class 16 of the "Bash Scripting on Linux (The Complete Guide)" series. In this class, we will explore the concept of arguments in bash scripting. Arguments allow you to customize your script's behavior based on user input.
 

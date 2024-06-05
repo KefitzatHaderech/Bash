@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: Where to Store Scripts
+# Where to Store Scripts
 
 ## Overview
 In this class, we'll discuss the importance of choosing the right location to store your scripts on the Linux file system. By selecting an appropriate directory, you ensure easy access and execution of your scripts. Let's dive into the details!

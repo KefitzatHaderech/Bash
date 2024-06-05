@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: For Loops
+# For Loops
 
 ## Overview
 In this class, we will delve into the concept of "for loops." For loops allow us to perform tasks repeatedly for each item in a set. Unlike if statements, which perform tasks based on conditions, for loops iterate through a predefined set of elements.

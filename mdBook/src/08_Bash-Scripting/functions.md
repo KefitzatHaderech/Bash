@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: Functions
+# Functions
 
 In this class, we will dive into the concept of functions in Bash scripting.
 

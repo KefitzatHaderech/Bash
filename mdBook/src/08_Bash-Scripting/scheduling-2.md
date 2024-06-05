@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: Scheduling Jobs (Part 2)
+# Scheduling Jobs (Part 2)
 
 Welcome to Class 15 of the "Bash Scripting on Linux (The Complete Guide)" series. In this class, we'll continue our exploration of scheduling jobs. If you haven't watched Part 1, you might want to check that out first. In this lesson, we'll focus on scheduling jobs using cron.
 

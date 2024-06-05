@@ -1,4 +1,4 @@
-# Bash Scripting on Linux (The Complete Guide) Class 17 - Backup Script
+# Backup Script
 
 ## Prerequisites
 Before proceeding with the backup script, ensure you have the following:

@@ -4,10 +4,6 @@
 
 This tutorial will guide you through creating a simple graphical user interface (GUI) using Bash scripting with the help of Zenity. Zenity is a command-line utility that allows you to create various types of dialogs for your shell scripts, providing an easy way to interact with users in a graphical manner.
 
-## Prerequisites
-
-Before you begin, ensure that Zenity is installed on your system. You can install it using the package manager for your operating system.
-
 ### Debian/Ubuntu:
 
 ```bash

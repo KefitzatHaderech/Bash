@@ -1,4 +1,4 @@
-# Bash Scripting Tutorial: Scheduling Jobs (Part 1)
+# Scheduling Jobs (Part 1)
 
 Welcome to Class 14 of the "Bash Scripting on Linux (The Complete Guide)" series. In this class, we will delve into scheduling jobs using the `at` command. This is Part 1 of the scheduling jobs concept, so let's get started!
 
