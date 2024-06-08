@@ -1,4 +1,4 @@
-# Linux - Bash
+# Bash
 
 - [Entering Terminal Commands](./01_Entering-Terminal-Commands/README.md)
   - [whoami, uname](./01_Entering-Terminal-Commands/01_whoami-uname.md)
